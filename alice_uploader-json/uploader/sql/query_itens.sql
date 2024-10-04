@@ -1,0 +1,1 @@
+select * from alice_itens;

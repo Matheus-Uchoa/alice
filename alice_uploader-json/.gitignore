@@ -1,0 +1,12 @@
+\temp
+\log
+\destino
+\LICON
+teste.py
+\__pycache__
+\downloader\__pycache__
+\uploader\__pycache__
+\downloader\log
+\uploader\log
+\vers_060421
+uploader/config_json_tce.ini
